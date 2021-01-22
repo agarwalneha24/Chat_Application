@@ -1,7 +1,7 @@
 # Chat_Application
 
 # Main Components
-1. Create React App.
+1. Create React Application.
 2. Profile => Component depicts the randomly generted main user avatar, name.
 3. Contact => Component depicts the randomly generated conatact list (atmost 15) and their recent messages.
 4. MessageBox => Component shows the structure the whole message box and messages (atmost 50 per contact) are sorted according to date and time.
