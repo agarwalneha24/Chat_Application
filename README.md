@@ -18,7 +18,7 @@
 7. Messages are also sorted on the basis of date and time in the contact list as well.
  
 # Languages Used
-1. HTML
-2. CSS
-3. Javascript
+A. HTML
+B. CSS
+C. Javascript
 
